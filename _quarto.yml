@@ -2,8 +2,8 @@ project:
   type: book
 
 book:
-  title: "There y Back Again"
-  author: "Norah Jones"
+  title: "There & Back Again"
+  author: "Samwise Gamgee"
   date: "12/1/2025"
   chapters:
     - index.qmd
